@@ -1,0 +1,25 @@
+{
+  "crop": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "done": {
+    "variables": {
+      "gameover": {
+        "op": "equal",
+        "reference": 1
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "finish": {
+        "op": "equal",
+        "reference": 1,
+        "reward": 5000.0
+      }
+    }
+  }
+}

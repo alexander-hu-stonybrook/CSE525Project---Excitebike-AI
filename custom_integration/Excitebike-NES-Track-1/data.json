@@ -1,0 +1,12 @@
+{
+  "info": {
+    "finish": {
+      "address": 82,
+      "type": "=u4"
+    },
+    "gameover": {
+      "address": 82,
+      "type": "=u4"
+    }
+  }
+}

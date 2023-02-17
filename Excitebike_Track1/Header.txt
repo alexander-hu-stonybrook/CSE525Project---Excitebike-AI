@@ -1,0 +1,8 @@
+MovieVersion Retro
+Author ?
+emuVersion ?
+Platform NES
+GameName CSE525Project
+SHA1 ?
+Core ?
+rerecordCount 1
